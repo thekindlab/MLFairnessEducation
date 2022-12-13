@@ -16,7 +16,7 @@ These materials are designed to teach students about the topic of fairness in ma
 
 Tyler Miller
 
-Pax Newman
+[Pax Newman](https://github.com/Pax-Newman)
 
 [Dr. Yudong Liu](https://cs.wwu.edu/liuy2)
 
