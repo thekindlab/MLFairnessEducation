@@ -12,13 +12,13 @@ These materials are designed to teach students about the topic of fairness in ma
 
 ## Team
 
-Samantha Jane Dobesh
+[Samantha Jane Dobesh](https://github.com/sjdobesh)
 
 Tyler Miller
 
 Pax Newman
 
-Dr. Yudong Liu
+[Dr. Yudong Liu](https://cs.wwu.edu/liuy2)
 
-Dr. Yasmine Elglaly
+[Dr. Yasmine Elglaly](https://www.yasmineelglaly.com/)
 
