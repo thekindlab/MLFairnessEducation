@@ -12,7 +12,7 @@ These materials are designed to teach students about the topic of fairness in ma
 
 ## Team
 
-[Samantha Jane Dobesh](https://github.com/sjdobesh)
+[Samantha Dobesh](https://github.com/sjdobesh)
 
 Tyler Miller
 
