@@ -10,6 +10,8 @@ These materials are designed to teach students about the topic of fairness in ma
 
 **Final Project:** Details are in the [ipynb file](https://colab.research.google.com/drive/1s2D0FAfTMQ-iBzSUGDIIFZ4OINp9wtzj?usp=sharing).
 
+Related work: [Teaching Accessibility in AI Courses](https://github.com/Teaching-Accessibility/Accessibility-AI)
+
 ## Team
 
 [Samantha Dobesh](https://github.com/sjdobesh)
