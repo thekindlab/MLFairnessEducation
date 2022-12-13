@@ -8,7 +8,7 @@ These materials are designed to teach students about the topic of fairness in ma
 
 **Activity:** Measuring Bias in BERT Contextualized Embeddings. Details are in the [ipynb file](https://colab.research.google.com/drive/1rLnnG5vR76nfuaNhOGI2Pl6HgH6xSoMp?usp=sharing). 
 
-**Final Project.** Details are in the [ipynb file](https://colab.research.google.com/drive/1s2D0FAfTMQ-iBzSUGDIIFZ4OINp9wtzj?usp=sharing).
+**Final Project:** Details are in the [ipynb file](https://colab.research.google.com/drive/1s2D0FAfTMQ-iBzSUGDIIFZ4OINp9wtzj?usp=sharing).
 
 ## Team
 
