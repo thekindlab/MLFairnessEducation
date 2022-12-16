@@ -24,3 +24,5 @@ Tyler Miller
 
 [Dr. Yasmine Elglaly](https://www.yasmineelglaly.com/)
 
+## Acknowledgement
+Parts of this work are supported by the SIGCSE Special Projects Grant award 56004A.
