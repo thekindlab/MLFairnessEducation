@@ -16,7 +16,7 @@ Related work: [Teaching Accessibility in AI Courses](https://github.com/Teaching
 
 [Samantha Dobesh](https://github.com/sjdobesh)
 
-Tyler Miller
+[Tyler Miller](https://github.com/tjm3406)
 
 [Pax Newman](https://github.com/Pax-Newman)
 
