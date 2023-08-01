@@ -1,6 +1,7 @@
 # Fairness in NLP Teaching Materials
 
-These materials are designed to teach students about the topic of fairness in machine learning. The materials are described in more detail in the [SIGCSE paper](https://dl.acm.org/doi/abs/10.1145/3545945.3569802), with a discussion on what went well and what can be improved in the future. 
+These materials are designed to teach students about the topic of fairness in machine learning. The materials are described in more detail in the [SIGCSE paper: 
+Towards Machine Learning Fairness Education in a Natural Language Processing Course](https://dl.acm.org/doi/abs/10.1145/3545945.3569802), with a discussion on what went well and what can be improved in the future. 
 
 **Lecture:** Bias in NLP. [pptx file](https://github.com/thekindlab/MLFairnessEducation/blob/main/Bias%20in%20NLP.pptx)
 
