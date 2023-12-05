@@ -9,7 +9,7 @@ Towards Machine Learning Fairness Education in a Natural Language Processing Cou
 
 **Activity 2** Measuring Bias in BERT Contextualized Embeddings. Details are in the [ipynb file](https://colab.research.google.com/drive/1rLnnG5vR76nfuaNhOGI2Pl6HgH6xSoMp?usp=sharing). 
 
-**Activity 3** BERT **_Disability_** Bias. Details are in the [ipynb file](https://colab.research.google.com/drive/1BcaryMV8wH3_BH_O-xfdetPRU52M2X2T?usp=sharing)
+**Activity 3** Measuring **_Disability_** Bias in BERT. Details are in the [ipynb file](https://colab.research.google.com/drive/1BcaryMV8wH3_BH_O-xfdetPRU52M2X2T?usp=sharing)
 
 **Final Project:** Details are in the [ipynb file](https://colab.research.google.com/drive/1s2D0FAfTMQ-iBzSUGDIIFZ4OINp9wtzj?usp=sharing).
 
